@@ -1,0 +1,1 @@
+Jogo de matar mosquitos com o cursor, tendo um sistema de vidas e de tempo. O projeto conta com paginas de vitoria, derrota e uma seleção de dificuldade, onde o mosquito reaparece em menos tempo.
